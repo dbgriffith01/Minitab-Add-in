@@ -1,4 +1,7 @@
 # Minitab-Add-in
-Files for creating a Minitab Add-in in C#
 
-[Read more words!](add_in_template.cs)
+#### Useful files for creating Minitab Add-in:
+
+[Add-in Instructions!](Instructions for Add-In.docx)
+
+[Example Class!](add_in_template.cs)
